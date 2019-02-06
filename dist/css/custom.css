@@ -1,0 +1,102 @@
+@media (min-width: 600px) {
+    .card {
+        width: 50%;
+    }
+}
+
+@font-face {
+    font-family: unimedbold;
+    src: url('../font/UnimedSlab-ExtraBold.otf');
+}
+
+@font-face {
+    font-family: unimed;
+    src: url('../font/UnimedSans_Regular.ttf');
+}
+
+body {
+    background-color: #fff;
+    font-family: unimed;
+    color: #002856;
+}
+
+.bg-dark {
+    background-color: #002856 !important;
+}
+
+.sidebar {
+    background-color: #F7F7F7 !important;
+}
+
+.h2 {
+    font-family: unimedbold !important;
+}
+
+a {
+    font-family: unimed;
+    color: #004da5;
+}
+
+.box {
+    border:#666666 solid 1px;
+ }
+
+.login {
+    font-weight:bold;
+    width:100px;
+    font-size:14px;
+}
+
+.hide {
+    display: none;
+}
+
+.color-blue {
+	background-color: #afafaf;
+	border: 1px solid #afafaf;
+}
+
+.seleciona .btn{
+	float: right;
+	background: #afafaf;
+	border: none;
+	border-radius: 18px;
+	padding: 5px 40px;
+	
+}
+
+#select1 {
+    color: #6c757d;
+    font-family: unimed;
+    border-radius: 10px 10px 0px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 40px;
+}
+
+.btentrar{
+	border-radius: 18px;
+	padding: 5px 30px;
+	font-family: unimed;
+	float: right;
+}
+
+img{
+    margin-left: 4px;
+}
+
+.nav-link{
+    padding: 10px 30px
+}
+
+.bt-sub{
+    color: #fff;
+    font-family: unimed;
+    border: none;
+    border-radius: 10px 10px 0px 10px;
+    margin-top: 10px;
+    background: #002856;
+    padding: 5px 40px;
+    float: right;
+}
+
